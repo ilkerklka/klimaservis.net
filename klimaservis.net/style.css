@@ -1,0 +1,28 @@
+.online{
+    border: 0px ;
+    border-radius: 20px ;
+    background-color: #373795;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    background-color: #ffffff;
+    }
+    ::-webkit-scrollbar-thumb{
+    background-color: #373795;
+    border-radius:5px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+    background-color: #2d2d91;
+    border-radius:5px;
+    }
+    ::-webkit-scrollbar-track-piece{
+    background: #ade0d8; 
+    border-radius:5px;
+    }
+    ::-webkit-scrollbar-corner {
+    background: #d0cecb; 
+    }
+    
+
+    
